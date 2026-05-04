@@ -34,7 +34,7 @@
 
 📊 **Melbourne Housing Market EDA** *(2023)*
 Разведочный анализ рынка недвижимости Мельбурна.
-→ [Kaggle Notebook](https://www.kaggle.com/code/shaga1/melbourne-housing-market-eda/notebook)
+→ [GitHub](https://github.com/GalinaShakirova/melbourne-housing-eda)
 
 📚 **Data Science Projects с курса Яндекс.Практикума** *(2021–2022)*
 15 учебных проектов: от исследования данных до классификации изображений и работы с временными рядами.
